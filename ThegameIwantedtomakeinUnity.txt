@@ -1,0 +1,210 @@
+﻿Overview:
+
+
+You get a space battleship, kill things with it. There are 7 classes of ships: Battleship, Carrier, Destroyer, Cruiser, Submarine, Support Frigate, Minelayer. There are 2 factions: The Alliance and the Federation, so the only difference between the two sides is a symbol on the top and maybe the ship color if the match is a team match.
+
+
+
+
+
+
+Welcome :3
+
+
+
+
+The Classes break down as follows:
+
+
+Battleship: SPECIAL: Yamato Cannon: Shoots a volley of 3 very fast projectiles that go through shields and most armor [Requires large amount of energy and can only be used once])
+
+
+Armor: Heavy (5/7/9/11)
+Weaponry: 9 x Laser Naval Rifles (6 in front, 3 in back), (3 rifles per turret), 2 x anti-aircraft turrets (one on each side), 4 x Long Range Torpedoes. (front facing)
+Top Speed: 20 knots
+Shield: 3-layer, Standard
+
+
+++ Heaviest Armor (Scales as 5/7/9/11 depending on how many points the person puts into it)
++ Longest range weapons
++ Anti-aircraft
+- Huge
+- Like god damn, stray shots will probably hit this
+- Slow turn rate
+- Shit-tier acceleration
+
+
+
+
+Carrier: SPECIAL: Dispatch: 3 support fighters / torpedo ships launch from the deck, depending on what the player has equipped for the match. Support fighters defend the carrier or attack the enemy, and torpedo ships have lower speed and can only attack, but have better armor. (Ability can be used TWICE on a 60 second cooldown.
+
+
+Armor: Average (3/4/5/6)
+Weaponry: 6 Medium Naval Rifles (2 turrets front, 1 in back, 2 rifles each), 4 anti-aircraft turrets (2 on each side)
+Top Speed: 16 knots
+Shield: 2-layer, Standard
+
+
+++ Good AA
++ Better scouting than most ships
++ Short range radar
+- Slow
+- Direct attacks likely to hit critical components (engine, turrets, radar, etc.)
+
+
+
+
+Cruiser: SPECIAL: None (Standard ship)
+
+
+Armor: Above Average: (4/5/7/8)
+Weaponry: 6 x Heavy Naval Rifles (2 turrets in front, 1 in back, 2 rifles each), 4 x Support Naval Rifles (1 turret in front, 1 in back, 2 rifles each), 5 Medium Range Torpedoes, 4 Cruise Missiles
+Top Speed: 28 knots
+Shield: 3-layer, Standard
+
+
+++ Unlimited Ammunition on Rifles
+++ Sanic levels of speed
+- Generic shit
+- No radar
+- Vulnerable to flanking
+- Rifles can only focus one target at once
+- No AA
+
+
+Destroyer: SPECIAL: EMP: area target, does AoE damage. EMP disables standard shields and wreaks havoc on enemy radar for 30 seconds (2 charges for 1 match). EMP disables the electronic systems of any ship that enters the area and disables mines and radar-guided projectiles. When the EMP is placed, the Destroyer is restricted to ½ power for 10 seconds (half speed).
+Armor: Light (2/4/6/8)
+Weaponry: 8 x Medium Naval Rifles, (2 turrets front, 2 back, 2 rifles each), 4 x short range missiles OR 4 x short range torpedoes, 2 AA turrets (1 in front, 1 in back)
+Top Speed: 25 knots
+Shield: 1-layer, Charged*
+
+
+*Charged shields can deflect any kind of incoming damage, detonate missiles, deflect EMPs, and resist most forms of laser fire.
+
+
+++ Good for supporting
++ Permanent Vision of surrounding area (can see through asteroid fields)
++ Short Range support
+- Piss poor damage alone
+- 1-layer shield
+
+
+Submarine (I was proud of this one): SPECIAL: Submerge: Submarine drops from both enemy vision and radar, cannot be hit by enemy fire, and can still launch torpedoes for 30 seconds on a 75 second cooldown. Submarine moves at ½ speed during this duration and cannot use ping.
+
+
+SECONDARY SPECIAL: Ping: Reveals enemy positions and enemy projectile* orientation in a certain radius around the submarine’s center (500/600/700/800), does not reveal submerged enemy submarines.
+
+
+*Missiles and Torpedoes
+
+
+Armor: Below Average: (1/3/4.5/5)
+Weaponry: 12 x Transdimensional Torpedoes, launches 2 at a time. These torpedoes are lock on when the enemy unit is in vision of a friendly ship, and fired straight forward when not in vision. These torpedoes CAN HIT SUBMERGED ENEMY SUBMARINES. The torpedo travels at a relatively slow speed toward the target until it is 200 meters away, then enters the target dimension, at which time it becomes visible to the enemy ship.
+Top Speed: 19 knots
+Projectile speed: 45 knots
+Shield: NONE
+
+
+++ Dat Stealth
++ Hardest hitting torpedoes out of all
++ Good for recon
+- Nothing else to shoot with
+-- Extremely vulnerable when out of cloak
+
+
+
+
+Support Frigate: SPECIAL: Hardened Shield: Activates when heavy fire targets the ship (missiles, torpedoes, heavy rifles) and completely negates the incoming damage. This shield cannot be disabled by EMP. This is a passive bonus which cannot be removed. The shield can be transferred to an allied ship (replaces the ship’s outermost shield layer) for 15 seconds. Transferring the shield removes the frigate's shield for the duration.
+
+
+SECONDARY SPECIAL (only ONE special can be equipped per match):  Repair Drones: Creates 5 miniature drones to repair allied ships’ systems (engine, targeting, radar, steering, life support), and can restore up to ¼ of the ship’s HP. Limited to 3 uses per match.
+
+
+Armor: Above Average (2/4/7/10)
+Weaponry: 6 x long range support rifles (2 turrets, both in front, 3 rifles each), 4 x medium range rifles (2 turrets, both back, 2 rifles each), 4 x Long range cruise missiles, 2 x Medium Range torpedoes, Unlimited transdimensional depth charges (on 30 second cooldown) (these are the only normal weapons that can damage a submerged submarine besides a transdimensional torpedo).
+Top Speed: 20 knots
+Shields: 1-layer hardened OR 1-layer standard
+
+
+++ Supreme armor scaling
++ Probably broken as fuck
++ Good variety of weapons
++ Synergizes well with Battleship
+- Shields won’t do anything
+- Vulnerable to faster enemies
+- Vulnerable to enemies with light weapons
+
+
+
+
+
+
+Minelayer: SPECIAL: Evasion and Scrambler: Redirects any radar-guided projectiles so that they don’t hit the ship (Evasion chance: 80%). If an enemy scans a certain area while it is within a certain radius of the scrambler, it will show false information about ships moving all around the scanned area. The Scrambler scales by range (250/350/450/550) and duration (30/45/60/70 seconds).
+
+
+Armor: Average (3/4/5/6)
+Weaponry: 12 x transdimensional mines (visible to submerged submarines) that damage both surface and submerged ships when they explode. Can also be triggered remotely, although both forms of detonation are nullified by EMP. 1 x Point defense drone; when an enemy projectile enters within range of the drone, the drone shoots it down with a laser on a 10 second cooldown. The drone remains in one place for its duration and cannot shoot down any attacks directed at it.
+Top Speed: 18 knots
+Shields: 2-layer, standard
+
+
++ Total asshole
++ Will ruin your day
++ Evasion chance will make you scream at your device
++ You know that Jewish friend of yours? This is what he’s playing.
+- Slow
+- No direct attacks.
+
+
+SHIP ABILITIES:
+
+
+Players are given 12 points to allocate into 20 slots for 5 perks
+
+
+Slot 1: Weapons:
+Level 0: Standard reload times, ¾ damage, no critical chance
+Level 1: 0.90 x reload times, Normal damage, 5% critical chance all weapons
+Level 2: 0.80 x reload times, 110% base damage, additional 5% bonus damage to shields, 10% critical chance on all weapons
+Level 3: 0.70 x reload times, 120% base damage, additional 15% bonus damage to shields, 15% critical chance on all weapons
+Level 4: 0.50 x reload times, 125% base damage, additional 20% bonus damage to shields, 15% critical chance on all weapons, 5% chance to fire two rounds at once, 2.5% chance on all rounds to pass directly through shields
+
+
+Slot 2: Shields:
+Level 0: Standard recharge times, ½ effective shielding, negates 0% of incoming laser damage, 7 second delay on recharge
+Level 1: 0.90 x recharge times, ¾ effective shielding, negates all damage from light naval rifles or lower, 4 second delay on recharge
+Level 2: 0.80 x recharge times, full effective shielding, negates 20% of all laser damage, 2 second delay on recharge
+Level 3: 0.70 x recharge times, full effective shielding, negates 40% of all laser damage
+Level 4: 0.50 x recharge times, full effective shielding, negates 70% of all laser damage, 20% chance to detonate incoming projectiles (on each shield layer) without damaging the ship
+
+
+Slot 3: Armor (Varies from ship to ship)*
+Level 0: +50% critical hull damage to ship, blocks -15% of incoming damage, +20% chance for enemy fire to damage internal systems
+Level 1: +10% critical hull damage to ship, blocks -5% of incoming damage, +10% chance for enemy fire to damage internal systems
+Level 2: -10% critical hull damage to ship, blocks +5% of incoming damage, -10% chance for enemy fire to damage internal systems
+Level 3: -25% enemy critical hit damage, blocks +10% of incoming damage, -15% chance for enemy fire to damage internal systems, 2.5% chance for enemy projectiles to bounce off of ship, dealing no damage
+Level 4: All level 3 bonuses + Hull regenerates 1 HP per second (Systems unaffected)
+
+
+Slot 4: Internal Systems
+Level 0: No vision, no radar-guided weaponry, no life support, No engines, no bonus evasion chance
+Level 1: 100 vision radius, 0.25 x acceleration rate, ½ top speed, +1% bonus evasion
+Level 2: 200 vision radius, 100-range radar, 0.75 x acceleration, 100% top speed, +5% bonus evasion*
+Level 3: 300 vision radius, 150-range radar, Normal acceleration, normal top speed, +10% bonus evasion*
+Level 4: 500 vision radius, 300-range radar, 1.5 x acceleration, normal top speed, +20% bonus evasion*, Every system has +50% bonus HP
+
+
+*maximum evasion chance is 90%
+Slot 5: Special
+
+
+This varies for each ship, so this is only a value point that the player determines before the match. 
+
+
+Shibs :DDD
+
+
+Federation:
+
+
+Battleship:                Carrier:
